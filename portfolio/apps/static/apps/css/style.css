@@ -1,0 +1,23 @@
+#id_gender{
+    list-style-type: none;
+    display: inline-flex;
+
+}
+#id_gender > li{
+    padding-left: 10px;
+}
+
+#id_gender > li{
+    padding-left: 10px;
+}
+    
+body{
+    background-color:coral;
+}
+#id_job_city{
+    display: inline-flex;
+    padding-left: 20px;
+}
+p{
+    text-align: left;
+}
